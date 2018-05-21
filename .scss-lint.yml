@@ -1,4 +1,4 @@
-scss_files: 'assets/scss/*.scss'
+scss_files: '_sass/*.scss'
 
 linters:
   ColorVariable:
@@ -8,4 +8,16 @@ linters:
     enabled: false
 
   IdSelector:
+    enabled: false
+
+  ImportantRule:
+    enabled: false
+
+  SelectorDepth:
+    enabled: false
+
+  NestingDepth:
+    enabled: false
+
+  QualifyingElement:
     enabled: false

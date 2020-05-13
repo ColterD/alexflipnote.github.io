@@ -1,29 +1,11 @@
-# alexflipnote.xyz
----
-## Site Information
-- Site: https://alexflipnote.xyz
-- Google Fonts: Montserrat, Roboto Mono
+# alexflipnote.dev
+- Site: https://alexflipnote.dev
 - Usage: Information about myself
-- Framework:
-  - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
-  - [jarallax](https://github.com/nk-o/jarallax)
-  - [skeleton](http://getskeleton.com/)
-  - [smoothScroll](https://github.com/alicelieutier/smoothScroll)
-  - [twemoji-awesome](https://github.com/ellekasai/twemoji-awesome)
 
-## Requirements
-- Ruby 2.4 or above - https://rubyinstaller.org/downloads/
-- jekyll & bundle - https://jekyllrb.com/
-- sass & scss_lint - Ruby Packages (gem install)
+This site proudly uses [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS) (since I made it, lol 🍺)
 
-## Commands
-```
-bundle exec jekyll serve
-    Testing website locally with localhost (Port 4000 is default)
-
-scss-lint
-    Check if your source code is linter friendly (SCSS only)
-```
+## Licenses
+My code is under [GPL 3.0](https://github.com/AlexFlipnote/alexflipnote.github.io/blob/master/LICENSE) while my [avatar](https://alexflipnote.dev/branding) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Open-source
 Just download and do whatever you want with it, I don't really mind, but please give credits, thanks ❤
